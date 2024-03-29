@@ -1,0 +1,87 @@
+
+#navbar ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    }
+
+    #navbar li {
+        display: inline-block;
+     margin-top: 20px;  
+              }
+header{
+    display: flex;
+
+}
+#nav-bar a{
+    text-decoration: none;
+    color:white;}
+
+.two{
+    color:white;
+}
+.tre{
+    color: bisque;
+}
+.house{
+    display: flex;
+    padding-left: 400px;
+    background-color: black;
+   
+}
+    
+button{
+    width: 170px;
+    height: 40px; ;
+
+    color:white;
+    background-color:rgb(177,110,46);
+    }
+    .photo{
+        
+        text-align: center;
+       
+    }
+    .text{
+        position: absolute;
+        color: bisque;
+        transform: translate(-50%,-50%);
+        padding: 0.5rem;
+        text-align: center;
+        left: 50%;
+        top: 50%;
+    }
+    .ton{
+        text-align: center;
+    }
+    .words{
+        display: flex;
+        padding-left: 500px;
+    }
+    .chair{
+        display: flex;
+        padding-left: 500px;
+    }
+    .ken{
+        text-align: center;
+    }
+    .r{text-align: center;}
+   .h{
+    display: flex;
+    margin-left: 400px;
+   }
+   .aline{
+    display: flex;
+    padding-left: 400px;
+   }
+   .p{
+    display: flex;
+    margin-left: 400px;
+   }
+   .ten{
+    display: flex;
+    padding-left: 500px;
+   }
+   .token{
+    text-align: center;
+   }
